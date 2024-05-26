@@ -1,0 +1,13 @@
+numpy
+pandas
+opencv-python
+tensorflow
+torch
+torchvision
+transformers
+pillow
+scikit-learn
+nltk
+diffusers
+huggingface_hub
+safetensors

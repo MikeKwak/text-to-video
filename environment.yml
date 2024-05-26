@@ -1,0 +1,18 @@
+name: animatediff
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pytorch
+  - torchvision
+  - cudatoolkit=10.1
+  - numpy
+  - scipy
+  - tqdm
+  - transformers
+  - safetensors
+  - pip
+  - pip:
+      - diffusers
+      - huggingface_hub
